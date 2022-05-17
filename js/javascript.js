@@ -248,8 +248,7 @@ function iniciarJuego(){
 
     mostrarGuiones(palabra);
 
-    console.log(palabra);
-}
+    }
 
 
 //responsiva
